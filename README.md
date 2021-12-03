@@ -4,7 +4,7 @@
 ## Welcome! 👋
 
 
-Aplicación para etradas de blog usando EJS template, para el almacenamiento de datos se hace uso de MongoDB (mongoose).
+Aplicación para etradas de blog usando bootstrap, EJS template para el manejo de las paginas, para el almacenamiento de datos se hace uso de MongoDB (mongoose).
 
 ![image](https://user-images.githubusercontent.com/90287359/144655064-6ac9d1ac-1706-4958-b324-2d4bfe859900.png)
 
